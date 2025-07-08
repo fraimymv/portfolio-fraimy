@@ -14,6 +14,10 @@
 
 
 
+
+
+
+
 ES:
 
 Soy una profesional en software testing con certificación y experiencia práctica adquirida durante una pasantía de 6 meses.  
@@ -42,11 +46,35 @@ I have a C1 level in English and am seeking opportunities to grow in Quality Ass
 
 
 
-* Diseño y ejecución de casos de prueba manuales / Design and execution of manual test cases  
-* Uso de Postman para pruebas API (GET, POST, PUT, DELETE) / Use of Postman for API testing (GET, POST, PUT, DELETE)  
-* Test automatizados con JSON / Automated tests with JSON  
-* Consultas y pruebas en bases de datos con SQL / Database testing and queries using SQL  
-* Documentación de casos y reportes de prueba / Test case documentation and bug reports
+
+
+
+
+* Diseño y ejecución de casos de prueba manuales / Design and execution of manual test cases.
+
+
+
+&nbsp; 
+
+* Uso de Postman para pruebas API (GET, POST, PUT, DELETE) / Use of Postman for API testing (GET, POST, PUT, DELETE).
+
+
+
+&nbsp; 
+
+* Test automatizados con JSON / Automated tests with JSON.
+
+
+
+&nbsp; 
+
+* Consultas y pruebas en bases de datos con SQL / Database testing and queries using SQL.
+
+
+
+&nbsp; 
+
+* Documentación de casos y reportes de prueba / Test case documentation and bug reports.
 
 
 
@@ -58,11 +86,17 @@ I have a C1 level in English and am seeking opportunities to grow in Quality Ass
 
 
 
+
+
+
+
 1\. Casos de prueba para calculadora / Calculator Test Cases  
 
 Diseño de casos para validar operaciones básicas (suma, resta, multiplicación, división).  
 
 Design of test cases to validate basic operations (addition, subtraction, multiplication, division).
+
+
 
 
 
@@ -74,11 +108,15 @@ Collection with example GET and POST requests.
 
 
 
+
+
 3\. Test automatizado con JSON / Automated Tests with JSON  
 
 Script automatizado para pruebas funcionales usando datos JSON.  
 
 Automated script for functional testing using JSON data.
+
+
 
 
 
@@ -98,6 +136,10 @@ SQL scripts for data integrity verification and specific queries.
 
 
 
+
+
+
+
 ###### Español: 
 
 Los casos de prueba, scripts y proyectos incluidos en este portafolio corresponden a prácticas y ejercicios realizados durante mi pasantía y aprendizaje en software testing.  
@@ -105,6 +147,8 @@ Los casos de prueba, scripts y proyectos incluidos en este portafolio correspond
 Esto refleja mi capacidad para diseñar, ejecutar y documentar pruebas en entornos controlados, y mi interés en seguir desarrollándome profesionalmente.
 
 
+
+###### 
 
 ###### English: 
 
@@ -119,6 +163,10 @@ This demonstrates my ability to design, execute, and document tests in controlle
 
 
 #### 📫 Contacto / Contact
+
+
+
+
 
 
 
