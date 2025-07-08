@@ -16,7 +16,7 @@
 
 
 
-ES:
+###### Español:
 
 Soy una profesional en software testing con certificación y experiencia práctica adquirida durante una pasantía de 6 meses.  
 
@@ -28,7 +28,7 @@ Quality Assurance, con enfoque en pruebas manuales y automatizadas.
 
 
 
-EN: 
+###### English:
 
 I am a certified software testing professional with 6 months of hands-on internship experience.  
 
@@ -47,21 +47,9 @@ I have a C1 level in English and am seeking opportunities to grow in Quality Ass
 
 
 * Diseño y ejecución de casos de prueba manuales / Design and execution of manual test cases.
-
-&nbsp; 
-
 * Uso de Postman para pruebas API (GET, POST, PUT, DELETE) / Use of Postman for API testing (GET, POST, PUT, DELETE).
-
-
-
 * Test automatizados con JSON / Automated tests with JSON.
-
-
-
 * Consultas y pruebas en bases de datos con SQL / Database testing and queries using SQL.
-
-
-
 * Documentación de casos y reportes de prueba / Test case documentation and bug reports.
 
 
