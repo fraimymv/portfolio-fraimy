@@ -14,10 +14,10 @@ pm.test("Hay al menos un contacto", function () {
 pm.test("Todos los nombres y apellidos están correctamente capitalizados", function () {
     jsonData.forEach(contact => {
 
-        // Verificar firtsname
+        // Firtsname
         pm.expect(contact.firstName).to.match(/^[A-Z][a-z]*$/, `Nombre incorrecto: ${contact.firstName}`);
 
-        // Validar lastname
+        // Lastname
         pm.expect(contact.lastName).to.match(/^[A-Z][a-z]*$/, `Apellido incorrecto: ${contact.lastName}`);
     });
 });
