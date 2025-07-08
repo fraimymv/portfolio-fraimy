@@ -16,8 +16,6 @@
 
 
 
-
-
 ES:
 
 Soy una profesional en software testing con certificación y experiencia práctica adquirida durante una pasantía de 6 meses.  
@@ -43,8 +41,6 @@ I have a C1 level in English and am seeking opportunities to grow in Quality Ass
 
 
 #### 🛠️ Habilidades y herramientas / Skills \& Tools
-
-
 
 
 
@@ -80,8 +76,6 @@ I have a C1 level in English and am seeking opportunities to grow in Quality Ass
 
 
 
-
-
 1. Casos de prueba para calculadora / Calculator Test Cases  
    Diseño de casos para validar operaciones básicas (suma, resta, multiplicación, división).  
    Design of test cases to validate basic operations (addition, subtraction, multiplication, division).
@@ -111,8 +105,6 @@ I have a C1 level in English and am seeking opportunities to grow in Quality Ass
 
 
 
-
-
 ###### Español: 
 
 Los casos de prueba, scripts y proyectos incluidos en este portafolio corresponden a prácticas y ejercicios realizados durante mi pasantía y aprendizaje en software testing.  
@@ -136,8 +128,6 @@ This demonstrates my ability to design, execute, and document tests in controlle
 
 
 #### 📫 Contacto / Contact
-
-
 
 
 
