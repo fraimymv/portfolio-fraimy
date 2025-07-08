@@ -1,4 +1,3 @@
-```markdown
 # Práctica: API AUTO TEST con Postman
 
 Esta práctica CONSTA de una unica colleción de 4 peticiones a una API REST, con 2 scripts automatizados para validar respuestas.
