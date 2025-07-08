@@ -12,6 +12,7 @@ Esta práctica CONSTA de una unica colleción de 4 peticiones a una API REST, co
 
 - `postman-api/API AUTO TEST.postman_collection.json`: Colección con tests.
 - `postman-api/ejemplos-scripts.md`: Código de las automatizaciones.
+- postman-api/captures
 
 ## Notas
 
