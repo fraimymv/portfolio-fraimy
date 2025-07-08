@@ -37,13 +37,13 @@ jsonData.forEach((contact, index) => {
     // Validar correo
     const emailValido = /@gmail\.com$|@mail\.com$|@hotmail\.com|@outlook\.com/.test(email);
     pm.test(`${contactoID} - Validar email (${email})`, function () {
-        pm.expect(emailValido, `❌ Email inválido: ${email} → Debe terminar en @gmail.com o @mail.com`).to.be.true;
+        pm.expect(emailValido, `Email inválido: ${email} → Debe terminar en @gmail.com o @mail.com`).to.be.true;
     });
 
     // Validar teléfono
     const telefonoValido = /^8/.test(phone);
     pm.test(`${contactoID} - Validar teléfono (${phone})`, function () {
-        pm.expect(telefonoValido, `❌ Teléfono inválido: ${phone} → Debe comenzar con 8`).to.be.true;
+        pm.expect(telefonoValido, `Teléfono inválido: ${phone} → Debe comenzar con 8`).to.be.true;
     });
 });
 ```
