@@ -1,7 +1,4 @@
-
-
-### **Portfolio - Fraimy**
-
+# **Portfolio - Fraimy**
 
 
 
@@ -9,12 +6,15 @@
 
 
 
+---
 
 
 
-##### 👋 Sobre mí / About me
+#### 👋 Sobre mí / About me
 
 
+
+ES:
 
 Soy una profesional en software testing con certificación y experiencia práctica adquirida durante una pasantía de 6 meses.  
 
@@ -24,9 +24,9 @@ Quality Assurance, con enfoque en pruebas manuales y automatizadas.
 
 
 
----
 
 
+EN: 
 
 I am a certified software testing professional with 6 months of hands-on internship experience.  
 
@@ -34,9 +34,11 @@ I have a C1 level in English and am seeking opportunities to grow in Quality Ass
 
 ##### 
 
-##### 
+---
 
-##### 🛠️ Habilidades y herramientas / Skills \& Tools
+
+
+#### 🛠️ Habilidades y herramientas / Skills \& Tools
 
 
 
@@ -48,11 +50,11 @@ I have a C1 level in English and am seeking opportunities to grow in Quality Ass
 
 
 
+---
 
 
-##### 
 
-##### 📂 Proyectos incluidos / Projects included
+#### 📂 Proyectos incluidos / Projects included
 
 
 
@@ -72,11 +74,7 @@ Collection with example GET and POST requests.
 
 
 
----
-
-
-
-1\. Test automatizado con JSON / Automated Tests with JSON  
+3\. Test automatizado con JSON / Automated Tests with JSON  
 
 Script automatizado para pruebas funcionales usando datos JSON.  
 
@@ -84,7 +82,7 @@ Automated script for functional testing using JSON data.
 
 
 
-2\. Pruebas de base de datos con SQL / Database Testing with SQL  
+4\. Pruebas de base de datos con SQL / Database Testing with SQL  
 
 Scripts SQL para verificar integridad y consultas específicas.  
 
@@ -92,11 +90,11 @@ SQL scripts for data integrity verification and specific queries.
 
 
 
-
+---
 
 ##### 
 
-##### 📌 Nota sobre los proyectos / Note about the projects
+#### 📌 Nota sobre los proyectos / Note about the projects
 
 
 
@@ -116,11 +114,11 @@ This demonstrates my ability to design, execute, and document tests in controlle
 
 
 
+---
 
 
 
-
-##### 📫 Contacto / Contact
+#### 📫 Contacto / Contact
 
 
 
