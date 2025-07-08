@@ -22,7 +22,7 @@ Soy una software tester con certificación y experiencia práctica adquirida.
 
 Tengo un nivel de inglés C1 y estoy en búsqueda de oportunidades para crecer en el área de 
 
-Quality Assurance, con enfoque en pruebas manuales y automatizadas.
+Quality Assurance, con enfoque en pruebas manuales.
 
 
 
@@ -32,7 +32,7 @@ Quality Assurance, con enfoque en pruebas manuales y automatizadas.
 
 I am a certified software testing with hands-on internship experience.  
 
-I have a C1 level in English and am seeking opportunities to grow in Quality Assurance, with a focus on both manual and automated testing.
+I have a C1 level in English and am seeking opportunities to grow in Quality Assurance, with a focus on both manual testing.
 
 ##### 
 
