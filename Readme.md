@@ -52,27 +52,19 @@ I have a C1 level in English and am seeking opportunities to grow in Quality Ass
 
 * Diseño y ejecución de casos de prueba manuales / Design and execution of manual test cases.
 
-
-
 &nbsp; 
 
 * Uso de Postman para pruebas API (GET, POST, PUT, DELETE) / Use of Postman for API testing (GET, POST, PUT, DELETE).
 
 
 
-&nbsp; 
-
 * Test automatizados con JSON / Automated tests with JSON.
 
 
 
-&nbsp; 
-
 * Consultas y pruebas en bases de datos con SQL / Database testing and queries using SQL.
 
 
-
-&nbsp; 
 
 * Documentación de casos y reportes de prueba / Test case documentation and bug reports.
 
@@ -90,41 +82,22 @@ I have a C1 level in English and am seeking opportunities to grow in Quality Ass
 
 
 
-1\. Casos de prueba para calculadora / Calculator Test Cases  
+1. Casos de prueba para calculadora / Calculator Test Cases  
+   Diseño de casos para validar operaciones básicas (suma, resta, multiplicación, división).  
+   Design of test cases to validate basic operations (addition, subtraction, multiplication, division).
+   
+2. Pruebas API con Postman / API Testing with Postman  
+   Colección con ejemplos de peticiones GET y POST.  
+   Collection with example GET and POST requests.
+   
+3. Test automatizado con JSON / Automated Tests with JSON  
+   Script automatizado para pruebas funcionales usando datos JSON.  
+   Automated script for functional testing using JSON data.
+   
+4. Pruebas de base de datos con SQL / Database Testing with SQL  
+   Scripts SQL para verificar integridad y consultas específicas.  
 
-Diseño de casos para validar operaciones básicas (suma, resta, multiplicación, división).  
-
-Design of test cases to validate basic operations (addition, subtraction, multiplication, division).
-
-
-
-
-
-2\. Pruebas API con Postman / API Testing with Postman  
-
-Colección con ejemplos de peticiones GET y POST.  
-
-Collection with example GET and POST requests.
-
-
-
-
-
-3\. Test automatizado con JSON / Automated Tests with JSON  
-
-Script automatizado para pruebas funcionales usando datos JSON.  
-
-Automated script for functional testing using JSON data.
-
-
-
-
-
-4\. Pruebas de base de datos con SQL / Database Testing with SQL  
-
-Scripts SQL para verificar integridad y consultas específicas.  
-
-SQL scripts for data integrity verification and specific queries.
+&nbsp;  SQL scripts for data integrity verification and specific queries.
 
 
 
