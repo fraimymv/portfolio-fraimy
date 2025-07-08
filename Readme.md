@@ -1,6 +1,6 @@
 
 
-### **# Portfolio - Fraimy**
+### **Portfolio - Fraimy**
 
 
 
@@ -10,13 +10,21 @@
 
 
 
-##### \## 👋 Sobre mí / About me
+
+
+##### 👋 Sobre mí / About me
 
 
 
 Soy una profesional en software testing con certificación y experiencia práctica adquirida durante una pasantía de 6 meses.  
 
-Tengo un nivel de inglés C1 y estoy en búsqueda de oportunidades para crecer en el área de Quality Assurance, con enfoque en pruebas manuales y automatizadas.
+Tengo un nivel de inglés C1 y estoy en búsqueda de oportunidades para crecer en el área de 
+
+Quality Assurance, con enfoque en pruebas manuales y automatizadas.
+
+
+
+---
 
 
 
@@ -24,11 +32,11 @@ I am a certified software testing professional with 6 months of hands-on interns
 
 I have a C1 level in English and am seeking opportunities to grow in Quality Assurance, with a focus on both manual and automated testing.
 
+##### 
 
+##### 
 
-
-
-##### \## 🛠️ Habilidades y herramientas / Skills \& Tools
+##### 🛠️ Habilidades y herramientas / Skills \& Tools
 
 
 
@@ -42,11 +50,13 @@ I have a C1 level in English and am seeking opportunities to grow in Quality Ass
 
 
 
-##### \## 📂 Proyectos incluidos / Projects included
+##### 
+
+##### 📂 Proyectos incluidos / Projects included
 
 
 
-\### 1. Casos de prueba para calculadora / Calculator Test Cases  
+1\. Casos de prueba para calculadora / Calculator Test Cases  
 
 Diseño de casos para validar operaciones básicas (suma, resta, multiplicación, división).  
 
@@ -54,7 +64,7 @@ Design of test cases to validate basic operations (addition, subtraction, multip
 
 
 
-\### 2. Pruebas API con Postman / API Testing with Postman  
+2\. Pruebas API con Postman / API Testing with Postman  
 
 Colección con ejemplos de peticiones GET y POST.  
 
@@ -62,7 +72,11 @@ Collection with example GET and POST requests.
 
 
 
-\### 3. Test automatizado con JSON / Automated Tests with JSON  
+---
+
+
+
+1\. Test automatizado con JSON / Automated Tests with JSON  
 
 Script automatizado para pruebas funcionales usando datos JSON.  
 
@@ -70,7 +84,7 @@ Automated script for functional testing using JSON data.
 
 
 
-\### 4. Pruebas de base de datos con SQL / Database Testing with SQL  
+2\. Pruebas de base de datos con SQL / Database Testing with SQL  
 
 Scripts SQL para verificar integridad y consultas específicas.  
 
@@ -80,11 +94,13 @@ SQL scripts for data integrity verification and specific queries.
 
 
 
-##### \## 📌 Nota sobre los proyectos / Note about the projects
+##### 
+
+##### 📌 Nota sobre los proyectos / Note about the projects
 
 
 
-###### \*\*Español:\*\*  
+###### Español: 
 
 Los casos de prueba, scripts y proyectos incluidos en este portafolio corresponden a prácticas y ejercicios realizados durante mi pasantía y aprendizaje en software testing.  
 
@@ -92,7 +108,7 @@ Esto refleja mi capacidad para diseñar, ejecutar y documentar pruebas en entorn
 
 
 
-###### \*\*English:\*\*  
+###### English: 
 
 The test cases, scripts, and projects included in this portfolio correspond to practical exercises completed during my internship and learning experience in software testing.  
 
@@ -102,17 +118,17 @@ This demonstrates my ability to design, execute, and document tests in controlle
 
 
 
-##### \## 📫 Contacto / Contact
+
+
+##### 📫 Contacto / Contact
 
 
 
-Puedes contactarme a través de LinkedIn: \[Tu perfil LinkedIn]  
-
-You can contact me via LinkedIn: \[Your LinkedIn profile]
+Puedes contactarme a través de / You can contact me via LinkedIn: www.linkedin.com/in/fraimy-mendez-vasquez  
 
 
 
-.....
+---
 
 
 
