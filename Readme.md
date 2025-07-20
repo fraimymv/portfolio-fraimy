@@ -78,8 +78,7 @@ I have a C1 level in English and am seeking opportunities to grow in Quality Ass
    
 4. Pruebas de base de datos con SQL / Database Testing with SQL  
    Scripts SQL para verificar integridad y consultas específicas.  
-
-&nbsp;  SQL scripts for data integrity verification and specific queries.
+   SQL scripts for data integrity verification and specific queries.
 
 
 
