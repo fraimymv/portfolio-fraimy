@@ -1,4 +1,4 @@
-# 🗃️ Práctica CRUD con SQL
+# Práctica CRUD con SQL
 
 Este documento contiene una serie de ejemplos prácticos para ejecutar operaciones CRUD (Create, Read, Update, Delete) usando sentencias SQL básicas. Es una simulación de base de datos con tablas como `productos`, `clientes`, `ventas` y `proveedores`.
 
@@ -192,5 +192,5 @@ WHERE ID_Proveedor='4'
 
 ## 📁 Recursos Relacionados
 
-- [Versión PDF de esta práctica](docs/CRUD_SQL.pdf)
+- [Versión PDF de esta práctica](docs/CRUD_SQL_FraimyMV.pdf)
 - Repositorio con imágenes de las consultas realizadas
