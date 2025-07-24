@@ -186,11 +186,9 @@ WHERE ID_Proveedor='4'
 
 - Este CRUD simula un entorno de base de datos con relaciones básicas.
 - La estructura de las tablas no está incluida, pero puedes asumir campos comunes como `id`, `nombre`, `categoria`, etc.
-- Fecha actual: `CURDATE()` es usada en MySQL para simular inserciones dinámicas.
-
 ---
 
 ## 📁 Recursos Relacionados
 
-- [Versión PDF de esta práctica](docs/CRUD_SQL_FraimyMV.pdf)
+- [Versión PDF de esta práctica](https://fraimymv.github.io/docs/CRUD_SQL_FraimyMV.pdf)
 - Repositorio con imágenes de las consultas realizadas
