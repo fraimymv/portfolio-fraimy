@@ -137,4 +137,7 @@ La calculadora debe mostrar una operación y su resultado de esta.
 
 ---
 
+## 📁 Recursos Relacionados
+
+- [Versión PDF de esta práctica](https://fraimymv.github.io/docs/TestCases_FraimyMV.pdf)
 
