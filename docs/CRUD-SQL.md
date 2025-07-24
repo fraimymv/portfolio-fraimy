@@ -191,4 +191,3 @@ WHERE ID_Proveedor='4'
 ## 📁 Recursos Relacionados
 
 - [Versión PDF de esta práctica](https://fraimymv.github.io/docs/CRUD_SQL_FraimyMV.pdf)
-- Repositorio con imágenes de las consultas realizadas
