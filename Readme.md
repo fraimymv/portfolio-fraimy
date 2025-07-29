@@ -120,7 +120,9 @@ This demonstrates my ability to design, execute, and document tests in controlle
 
 
 
-Puedes contactarme a través de / You can contact me via LinkedIn: www.linkedin.com/in/fraimy-mendez-vasquez  
+Puedes contactarme a través de / You can contact me via 
+LinkedIn: www.linkedin.com/in/fraimy-mendez-vasquez  
+Mail: mvfraimy@gmail.com or fraimymv35@gmail.com
 
 
 
